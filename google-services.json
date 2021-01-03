@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019530130758",
+    "project_id": "san-guo-sha-c3425",
+    "storage_bucket": "san-guo-sha-c3425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019530130758:android:4ab190f682caba39caa147",
+        "android_client_info": {
+          "package_name": "com.zsws.sgsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019530130758-6qs9on98elv8nsmn450fqjh3qe66nrde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotEU1IkSKa64tt9Z8IYf1P4fAFuJF2UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019530130758-6qs9on98elv8nsmn450fqjh3qe66nrde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
